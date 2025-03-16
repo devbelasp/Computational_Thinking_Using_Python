@@ -1,4 +1,4 @@
-# 🚀 Bem-vindos ao repositório da matéria Computational Thinking Using Python - FIAP
+# 🐍 Computational Thinking Using Python - FIAP
  
 ## 📌 Sobre a disciplina
 
