@@ -1,4 +1,4 @@
-#algoritmo verifica_idade
+# algoritmo verifica_idade
 
 var idade: numérico -> inteiro
 
@@ -16,7 +16,7 @@ Fim.
 
 _____________________________________________
 
-#algoritmo verifica_media
+# algoritmo verifica_media
 
 var nota1, nota2, media: numérico -> real
 
@@ -33,3 +33,23 @@ Se não
 	escreva "Reprovado"
 
 Fim.
+
+________________________________________________
+
+# algoritmo calcula_tempC
+
+var tempF, tempC: numérico -> real
+
+inicio
+
+leia tempF
+
+tempC = (tempF -32) / 1.8
+
+escreva (tempC)
+
+Fim.
+
+__________________________________________________
+
+
