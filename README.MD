@@ -2,23 +2,21 @@
  
 ## 📌 Sobre a disciplina
 
-A disciplina Computational Thinking Using Python tem como objetivo introduzir e desenvolver o pensamento computacional e o raciocínio lógico usando a linguagem Python, contribuindo na resolução de problemas no código e no desenvolvimento de projetos. Nesta disciplina abordaremos os seguintes tópicos:
+A disciplina <strong>Computational Thinking Using Python<strong> tem como objetivo introduzir e desenvolver o pensamento computacional e o raciocínio lógico usando a linguagem Python, contribuindo na resolução de problemas no código e no desenvolvimento de projetos. Nesta disciplina abordaremos os seguintes tópicos:
 
-- 🧠Introdução ao Pensamento Computacional;
-- 💻Algoritmos e Lógica de Programação;
-- 🛠️Fundamentos de Programação em Python;
-- 🔢Sintaxe básica (Variáveis, operadores, estrutura de controle);
-- 💡Tipos de dados (Strings, números, listas, tuplas, dicionários);
-- 🔂Controle de fluxo (Condicionais (if, else), loops (for, while));
-- 🛠️ Criação e uso de funções;
-- 📊 Estruturas de Dados;
-- 📚Bibliotecas e Frameworks em Python.
+- 🧠<strong>Introdução ao Pensamento Computacional;<strong>
+- 💻<strong>Algoritmos e Lógica de Programação;<strong>
+- 🛠️<strong>Fundamentos de Programação em Python;<strong>
+- 🔂<strong>Controle de fluxo (Condicionais (if, else), loops (for, while));<strong>
+- 🛠️ <strong>Criação e uso de funções;<strong>
+- 📊 <strong>Estruturas de Dados;<strong>
+- 📚<strong>Bibliotecas e Frameworks em Python.<strong>
 
 ## 📚 O que você encontrará aqui?
  
-- 📑 Anotações sobre conceitos e práticas aprendidas.
-- 🚀 Projetos e exercícios para reforçar o aprendizado.
-- 🔍 Casos de uso e aplicações práticas de Python no mundo real.
+- 📑 <strong>Anotações<strong> sobre conceitos e práticas aprendidas.
+- 🚀 <strong>Projetos e exercícios<strong> para reforçar o aprendizado.
+- 🔍 <strong>Casos de uso e aplicações práticas<strong> de Python no mundo real.
  
  
 ## 💬 Contato
