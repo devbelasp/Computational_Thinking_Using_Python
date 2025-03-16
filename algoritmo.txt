@@ -1,0 +1,35 @@
+#algoritmo verifica_idade
+
+var idade: numérico -> inteiro
+
+inicio
+
+leia idade
+
+Se (idade >= 18) então
+	escreva "Maior de idade"
+
+Se não
+	escreva "Menor de idade"
+
+Fim.
+
+_____________________________________________
+
+#algoritmo verifica_media
+
+var nota1, nota2, media: numérico -> real
+
+inicio
+
+leia nota 1, nota 2
+
+media <- (nota1 + nota 2) / 2
+
+Se (media >= 7) então
+	escreva "Aprovado"
+
+Se não
+	escreva "Reprovado"
+
+Fim.
