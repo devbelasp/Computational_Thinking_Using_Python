@@ -44,7 +44,7 @@ inicio
 
 leia tempF
 
-tempC = (tempF -32) / 1.8
+tempC <- (tempF -32) / 1.8
 
 escreva (tempC)
 
