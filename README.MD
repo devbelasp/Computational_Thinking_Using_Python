@@ -4,13 +4,14 @@
 
 A disciplina <strong>Computational Thinking Using Python</strong> tem como objetivo introduzir e desenvolver o pensamento computacional e o raciocínio lógico usando a linguagem Python, contribuindo na resolução de problemas no código e no desenvolvimento de projetos. Nesta disciplina abordaremos os seguintes tópicos:
 
+
 - 🔢<strong>Algoritmos - conceito e estrutura;</strong>
-- 🗒️<strong>Formas de representações - Fluxograma|Pseudocódigo;</strong>
+- 🗒️<strong>Formas de representações - Fluxograma | Pseudocódigo;</strong>
 - 🧠<strong>Lógica de Programação;</strong>
 - 💻<strong>Linguagem de Programação Python;</strong>
 - 🛠️ <strong>Estruturas Condicionais;</strong>
 - 🔂 <strong>Estruturas de Repetição;</strong>
-- 💡<strong>Sequências e manipulação de dados em Sequências - Listas|Tuplas|Strings|Dicionários;</strong>
+- 💡<strong>Sequências e manipulação de dados em Sequências - Listas | Tuplas | Strings | Dicionários;</strong>
 
 
 ## 📚 O que você encontrará aqui?
